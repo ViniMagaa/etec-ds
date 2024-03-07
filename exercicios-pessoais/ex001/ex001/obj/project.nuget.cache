@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4ykbVLwahbesfnsfg2GZnisEviTMXwS2NGGH94VhrFT/ROduyyuvrXVsvD05Q1Ut62rPyeggmRw7byWFySQG/Q==",
+  "dgSpecHash": "CAuqIPUsxmgMLQcberHYQtGwRIAzrIlQ2vKtdzoqDcJnpVhCFxo6PyulGPzTul6YZ40x6sFTj/wwdRMbcsUDQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vinis\\programacao\\github\\etec-ds\\exercicios-pessoais\\ex001\\ex001\\ex001.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\vinis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\vinis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\vinis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
-    "C:\\Users\\vinis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\JVCRiper-infi231\\source\\repos\\ViniMagaa\\etec-ds\\exercicios-pessoais\\ex001\\ex001\\ex001.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
