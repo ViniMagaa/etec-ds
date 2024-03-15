@@ -1,0 +1,17 @@
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\bin\Debug\net8.0-windows\tarefa-15-03.exe
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\bin\Debug\net8.0-windows\tarefa-15-03.deps.json
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\bin\Debug\net8.0-windows\tarefa-15-03.runtimeconfig.json
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\bin\Debug\net8.0-windows\tarefa-15-03.dll
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\bin\Debug\net8.0-windows\tarefa-15-03.pdb
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa_15_03.Form1.resources
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.csproj.GenerateResource.cache
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.AssemblyInfoInputs.cache
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.AssemblyInfo.cs
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.csproj.CoreCompileInputs.cache
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.sourcelink.json
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.dll
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\refint\tarefa-15-03.dll
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.pdb
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\tarefa-15-03.genruntimeconfig.cache
+C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-15-03\obj\Debug\net8.0-windows\ref\tarefa-15-03.dll

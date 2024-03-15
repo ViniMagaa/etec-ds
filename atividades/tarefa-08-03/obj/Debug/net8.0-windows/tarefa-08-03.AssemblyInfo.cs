@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarefa-08-03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+684bf44e834082005cce4d3cd78163fff046c870")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarefa-08-03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarefa-08-03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

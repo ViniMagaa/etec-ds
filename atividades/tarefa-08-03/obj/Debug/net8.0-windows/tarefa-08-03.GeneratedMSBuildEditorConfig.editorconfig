@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tarefa_08_03
-build_property.ProjectDir = C:\Users\JVCRiper-infi231\Source\Repos\ViniMagaa\etec-ds\atividades\tarefa-08-03\
+build_property.ProjectDir = C:\Users\vinis\programacao\github\etec-ds\atividades\tarefa-08-03\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
