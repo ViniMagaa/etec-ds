@@ -1,0 +1,17 @@
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\bin\Debug\net7.0-windows\tarefa-1-antecessor.exe
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\bin\Debug\net7.0-windows\tarefa-1-antecessor.deps.json
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\bin\Debug\net7.0-windows\tarefa-1-antecessor.runtimeconfig.json
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\bin\Debug\net7.0-windows\tarefa-1-antecessor.dll
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\bin\Debug\net7.0-windows\tarefa-1-antecessor.pdb
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.csproj.AssemblyReference.cache
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa_1_antecessor.Form1.resources
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.csproj.GenerateResource.cache
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.AssemblyInfoInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.AssemblyInfo.cs
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.csproj.CoreCompileInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.dll
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\refint\tarefa-1-antecessor.dll
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.pdb
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\tarefa-1-antecessor.genruntimeconfig.cache
+C:\Users\JVCRiper-infI231\source\repos\tarefa-1-antecessor\obj\Debug\net7.0-windows\ref\tarefa-1-antecessor.dll

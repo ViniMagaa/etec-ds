@@ -1,0 +1,17 @@
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\bin\Debug\net7.0-windows\ex003.exe
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\bin\Debug\net7.0-windows\ex003.deps.json
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\bin\Debug\net7.0-windows\ex003.runtimeconfig.json
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\bin\Debug\net7.0-windows\ex003.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\bin\Debug\net7.0-windows\ex003.pdb
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.csproj.AssemblyReference.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.Form1.resources
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.csproj.GenerateResource.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.AssemblyInfoInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.AssemblyInfo.cs
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.csproj.CoreCompileInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\refint\ex003.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.pdb
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ex003.genruntimeconfig.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\exercicios-avaliativas\ex003\obj\Debug\net7.0-windows\ref\ex003.dll

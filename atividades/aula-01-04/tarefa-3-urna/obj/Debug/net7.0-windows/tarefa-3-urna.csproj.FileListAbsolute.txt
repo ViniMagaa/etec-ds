@@ -1,0 +1,17 @@
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\bin\Debug\net7.0-windows\tarefa-3-urna.exe
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\bin\Debug\net7.0-windows\tarefa-3-urna.deps.json
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\bin\Debug\net7.0-windows\tarefa-3-urna.runtimeconfig.json
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\bin\Debug\net7.0-windows\tarefa-3-urna.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\bin\Debug\net7.0-windows\tarefa-3-urna.pdb
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.csproj.AssemblyReference.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa_3_urna.Form1.resources
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.csproj.GenerateResource.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.AssemblyInfoInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.AssemblyInfo.cs
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.csproj.CoreCompileInputs.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\refint\tarefa-3-urna.dll
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.pdb
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\tarefa-3-urna.genruntimeconfig.cache
+C:\Users\JVCRiper-infI231\source\repos\ViniMagaa\etec-ds\atividades\aula-01-04\tarefa-3-urna\obj\Debug\net7.0-windows\ref\tarefa-3-urna.dll
