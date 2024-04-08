@@ -1,0 +1,17 @@
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\bin\Debug\net7.0-windows\ex-002-veiculo-acessorios.exe
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\bin\Debug\net7.0-windows\ex-002-veiculo-acessorios.deps.json
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\bin\Debug\net7.0-windows\ex-002-veiculo-acessorios.runtimeconfig.json
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\bin\Debug\net7.0-windows\ex-002-veiculo-acessorios.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\bin\Debug\net7.0-windows\ex-002-veiculo-acessorios.pdb
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.csproj.AssemblyReference.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex_002_veiculo_acessorios.Form1.resources
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.csproj.GenerateResource.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.AssemblyInfoInputs.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.AssemblyInfo.cs
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.csproj.CoreCompileInputs.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\refint\ex-002-veiculo-acessorios.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.pdb
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ex-002-veiculo-acessorios.genruntimeconfig.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-002-veiculo-acessorios\obj\Debug\net7.0-windows\ref\ex-002-veiculo-acessorios.dll

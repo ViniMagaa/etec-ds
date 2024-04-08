@@ -1,0 +1,17 @@
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\bin\Debug\net7.0-windows\ex-001-desconto.exe
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\bin\Debug\net7.0-windows\ex-001-desconto.deps.json
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\bin\Debug\net7.0-windows\ex-001-desconto.runtimeconfig.json
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\bin\Debug\net7.0-windows\ex-001-desconto.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\bin\Debug\net7.0-windows\ex-001-desconto.pdb
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.csproj.AssemblyReference.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex_001_desconto.Form1.resources
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.csproj.GenerateResource.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.AssemblyInfoInputs.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.AssemblyInfo.cs
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.csproj.CoreCompileInputs.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\refint\ex-001-desconto.dll
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.pdb
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ex-001-desconto.genruntimeconfig.cache
+C:\Users\JVCRiper-infi231\source\repos\ViniMagaa\etec-ds\atividades\aula-08-04\ex-001-desconto\obj\Debug\net7.0-windows\ref\ex-001-desconto.dll

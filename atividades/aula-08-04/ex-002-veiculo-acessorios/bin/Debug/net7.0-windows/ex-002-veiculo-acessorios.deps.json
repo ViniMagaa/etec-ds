@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ex-002-veiculo-acessorios/1.0.0": {
+        "runtime": {
+          "ex-002-veiculo-acessorios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ex-002-veiculo-acessorios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
