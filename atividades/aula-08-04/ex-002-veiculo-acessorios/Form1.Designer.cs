@@ -65,9 +65,9 @@
             redColor.Name = "redColor";
             redColor.Size = new Size(147, 19);
             redColor.TabIndex = 3;
-            redColor.TabStop = true;
             redColor.Text = "Vermelho + R$ 2.000,00";
             redColor.UseVisualStyleBackColor = true;
+            redColor.CheckedChanged += redColor_CheckedChanged;
             // 
             // silverColor
             // 
@@ -76,9 +76,9 @@
             silverColor.Name = "silverColor";
             silverColor.Size = new Size(124, 19);
             silverColor.TabIndex = 2;
-            silverColor.TabStop = true;
             silverColor.Text = "Prata + R$ 1.000,00";
             silverColor.UseVisualStyleBackColor = true;
+            silverColor.CheckedChanged += silverColor_CheckedChanged;
             // 
             // blackColor
             // 
@@ -87,9 +87,9 @@
             blackColor.Name = "blackColor";
             blackColor.Size = new Size(116, 19);
             blackColor.TabIndex = 1;
-            blackColor.TabStop = true;
             blackColor.Text = "Preto + R$ 500,00";
             blackColor.UseVisualStyleBackColor = true;
+            blackColor.CheckedChanged += blackColor_CheckedChanged;
             // 
             // whiteColor
             // 
@@ -98,7 +98,6 @@
             whiteColor.Name = "whiteColor";
             whiteColor.Size = new Size(125, 19);
             whiteColor.TabIndex = 0;
-            whiteColor.TabStop = true;
             whiteColor.Text = "Branco + R$ 300,00";
             whiteColor.UseVisualStyleBackColor = true;
             whiteColor.CheckedChanged += whiteColor_CheckedChanged;
@@ -125,6 +124,7 @@
             alarmGadget.TabIndex = 3;
             alarmGadget.Text = "Alarme + R$ 700,00";
             alarmGadget.UseVisualStyleBackColor = true;
+            alarmGadget.CheckedChanged += alarmGadget_CheckedChanged;
             // 
             // soundGadget
             // 
@@ -135,6 +135,7 @@
             soundGadget.TabIndex = 2;
             soundGadget.Text = "Som + R$ 2.500,00";
             soundGadget.UseVisualStyleBackColor = true;
+            soundGadget.CheckedChanged += soundGadget_CheckedChanged;
             // 
             // wheelsGadget
             // 
@@ -145,6 +146,7 @@
             wheelsGadget.TabIndex = 1;
             wheelsGadget.Text = "Rodas de Liga Leve + R$ 2.000,00";
             wheelsGadget.UseVisualStyleBackColor = true;
+            wheelsGadget.CheckedChanged += wheelsGadget_CheckedChanged;
             // 
             // insufilmGadget
             // 
@@ -155,6 +157,7 @@
             insufilmGadget.TabIndex = 0;
             insufilmGadget.Text = "Insufilm + R$ 350,00";
             insufilmGadget.UseVisualStyleBackColor = true;
+            insufilmGadget.CheckedChanged += insufilmGadget_CheckedChanged;
             // 
             // label1
             // 
